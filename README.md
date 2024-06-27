@@ -1,4 +1,3 @@
-# Stock-
 ### Samsung Stock Forecast Model
 - This repository contains a project focused on market analysis and trend identification for Samsung Electronics stocks. The project involves the use of statistical and machine learning technique to analyze historical stock data, identify trends, and forecast future stock prices.
 ### Models and Techniques
